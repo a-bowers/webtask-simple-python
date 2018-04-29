@@ -4,6 +4,13 @@
   "description": "A simple webtask compiler for python",
   "main": "index.js",
   "author": "a-bowers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-bowers/webtask-simple-python.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a-bowers/webtask-simple-python/issues"
+  },
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^5.0.0",
