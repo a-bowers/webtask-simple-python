@@ -1,0 +1,13 @@
+{
+  "name": "webtask-simple-python",
+  "version": "1.0.3",
+  "description": "A simple webtask compiler for python",
+  "main": "index.js",
+  "author": "a-bowers",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "python-shell": "^0.5.0",
+    "uuid": "^3.2.1"
+  }
+}
